@@ -19,6 +19,15 @@ body{
 .homepage {
 	text-align: center;
 }
+
+.homepage a span:hover {
+	color: #ffffff;
+
+
+}
+.homepage a span {
+	text-decoration: underline;
+}
 #top_row {
 	display: inline-flex;
 	width: 50% auto;
@@ -26,6 +35,9 @@ body{
 	padding-right: 50px;
 	margin-bottom: 100px;
 	margin-left: 50px;
+}
+#top_row h2{
+	text-align: center;
 }
 
 #tb_one {
@@ -62,6 +74,9 @@ body{
 
 	padding-left: 50px;
 	padding-right: 50px;*/
+}
+#bottom_row h2{
+	text-align: center;
 }
 
 #bb_one {
@@ -103,16 +118,21 @@ body{
 	margin-bottom: 50px;
 	margin-left: 50px;
 }
+#middle_row h2{
+	text-align: center;
+}
 
 h1{
 	text-align: center;
+}
+h1:hover {
+	background: #ffffff;
 }
 
 .next_page{
 	text-align: center;
 	margin-top: 5%;
 	margin-bottom: 5%;
-
 
 }
 
@@ -132,7 +152,7 @@ h1{
 
 }
 
-@media (min-width : 320px) and (max-width : 480px){
+@media screen (min-width : 320px) and (max-width : 480px){
 	#pagess {
 		height: 1000px;
 		width: 100%;
@@ -152,7 +172,7 @@ h1{
 		height: 250px;
 		margin-top: 100px;
 		margin-bottom: 100px;
-		padding-top: 100px
+		padding-top: 100px;
 		padding-bottom: 300px;
 	}
 
@@ -161,7 +181,7 @@ h1{
 		height: 250px;
 		margin-top: 100px;
 		margin-bottom: 100px;
-		padding-top: 100px
+		padding-top: 100px;
 		padding-bottom: 300px;
 
 	}
@@ -171,7 +191,7 @@ h1{
 		width: 70%;
 		margin-top: 100px;
 		margin-bottom: 100px;
-		padding-top: 100px
+		padding-top: 100px;
 		padding-bottom: 100px;
 	}
 
@@ -188,7 +208,7 @@ h1{
 		height: 250px;
 		margin-top: 100px;
 		margin-bottom: 100px;
-		padding-top: 100px
+		padding-top: 100px;
 		padding-bottom: 300px;
 	}
 
@@ -197,7 +217,7 @@ h1{
 		height: 250px;
 		margin-top: 100px;
 		margin-bottom: 100px;
-		padding-top: 100px
+		padding-top: 100px;
 		padding-bottom: 300px;
 
 	}
@@ -206,7 +226,18 @@ h1{
 		height: 250px;
 		margin-top: 100px;
 		margin-bottom: 100px;
-		padding-top: 100px
+		padding-top: 100px;
+		padding-bottom: 100px;
+
+	}
+
+	#mb_three {
+		width: 70%;
+		height: 250px;
+		margin-top: 100px;
+		margin-bottom: 100px;
+		padding-top: 100px;
+
 		padding-bottom: 100px;
 
 	}
