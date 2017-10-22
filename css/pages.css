@@ -112,6 +112,12 @@ body{
 	text-align: center;
 }
 
+#mb_three {
+	height: 250px;
+	width: 70%;
+	padding-left: 20px;
+}
+
 h1{
 	text-align: center;
 }
