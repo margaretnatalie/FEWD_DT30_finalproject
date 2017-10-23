@@ -46,6 +46,10 @@ body{
 	text-decoration: underline;
 }
 
+#top_row a:hover {
+	color: #FBCFE9;
+}
+
 #tb_one {
 	width: 70%;
 	height: 250px;
@@ -155,8 +159,7 @@ body{
 }
 
 .go_home{
-	
-
+	text-align: center;
 }
 
 .go_home a {
