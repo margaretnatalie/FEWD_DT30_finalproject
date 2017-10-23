@@ -246,6 +246,7 @@ body{
 	
 #pagess {
 	padding: 2%;
+	margin: 100%;
 }
 	/*#pagess {
 		height: 50%;
@@ -361,6 +362,7 @@ body{
 }
 
 #middle_row{
+	align-content: center;
 	height: 100%;
 	display: block;
 	width: 50%;
