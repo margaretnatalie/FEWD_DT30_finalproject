@@ -16,6 +16,10 @@ body{
 
 }
 
+.distract {
+	text-align: center;
+}
+
 #fp_distract{
 	text-align: center;
 }
@@ -152,6 +156,7 @@ body{
 
 
 .next_page{
+	font-size: 20px;
 	text-align: center;
 	margin-top: 5%;
 	margin-bottom: 5%;
@@ -167,6 +172,7 @@ body{
 }
 
 .go_home{
+	font-size: 20px;
 	text-align: center;
 }
 
@@ -179,6 +185,7 @@ body{
 }
 
 .previous_page {
+	font-size: 20px;
 	margin-top: 5%;
 	margin-bottom: 2%;
 	
@@ -211,6 +218,23 @@ body{
 
 #lens_distract:hover {
 	color: #ffffff;
+}
+
+#calmer {
+	text-align: center;
+	color: #ffffff;
+	font-size: 16px;
+}
+
+
+#calmer a{
+	color: #ffffff;
+	text-decoration: underline;
+	font-weight: 900;
+}
+
+#calmer a:hover {
+	color: #FBCFE9;
 }
 
 @media only screen and (min-width : 320px) and (max-width : 600px){
