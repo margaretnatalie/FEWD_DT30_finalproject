@@ -22,8 +22,4 @@ $('#lens_distract').click( function() {
 return false;
 
 
-console.log('fuck me up')
-
-
-
 })
