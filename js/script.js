@@ -1,15 +1,15 @@
 console.log('fuck me up')
-$(document).ready(function(){
+// $(document).ready(function(){
 
-	console.log('fuck me up')
-	$('.firstpage_link').on('click', function(){
-		$.alert('You are going to be alright')
-		onClose: function()
-	})
+// 	console.log('fuck me up')
+// 	$('.firstpage_link').on('click', function(){
+// 		$.alert('You are going to be alright')
+// 		onClose: function()
+// 	})
 
 
 
-})
+// })
 
 
 
