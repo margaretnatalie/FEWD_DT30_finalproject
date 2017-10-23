@@ -40,7 +40,7 @@ body{
 	margin-bottom: 100px;
 	margin-left: 50px;
 }
-#top_row h2{
+#top_row a {
 	text-align: center;
 	color: #ffffff;
 	text-decoration: underline;
@@ -85,10 +85,14 @@ body{
 	padding-left: 50px;
 	padding-right: 50px;*/
 }
-#bottom_row h2{
+#bottom_row a{
 	text-align: center;
 	color: #ffffff;
 	text-decoration: underline;
+}
+
+#bottom_row a:hover {
+	color: #FBCFE9;
 }
 
 #bb_one {
@@ -130,10 +134,14 @@ body{
 	margin-bottom: 50px;
 	margin-left: 50px;
 }
-#middle_row h2{
+#middle_row a{
 	text-align: center;
 	color: #ffffff;
 	text-decoration: underline;
+}
+
+#middle_row a:hover {
+	color: #FBCFE9;
 }
 
 #mb_three {
