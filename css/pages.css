@@ -16,6 +16,20 @@ body{
 
 }
 
+#fp_distract{
+	text-align: center;
+}
+#fp_distract:hover {
+	color: #ffffff;
+}
+
+#fp1_distract{
+	text-align: center;
+}
+
+#fp1_distract:hover {
+	color: #ffffff;
+}
 
 
 #top_row {
@@ -118,12 +132,6 @@ body{
 	padding-left: 20px;
 }
 
-h1{
-	text-align: center;
-}
-h1:hover {
-	background: #ffffff;
-}
 
 .next_page{
 	text-align: center;

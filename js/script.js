@@ -1,4 +1,24 @@
+$(document).ready(function(){
+$('#fp_distract').click( function() {
+    alert('You are going to be alright. Do not think negatively!');
+	});
+
+
+$('#fp1_distract').click( function() {
+    alert('Give it time. Be patient with the process of self-improvement.');
+	});
+
+
+return false;
+
+
 console.log('fuck me up')
+
+
+
+})
+
+// console.log('fuck me up')
 // $(document).ready(function(){
 
 // 	console.log('fuck me up')
